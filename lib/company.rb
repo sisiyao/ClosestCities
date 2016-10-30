@@ -1,4 +1,4 @@
-class Compa ny
+class Company
   attr_reader :name, :locations
 
   def initialize(name, cities)

@@ -10,6 +10,7 @@ class Company
     closest_cities = nil
     closest_distance = 40075 #circumference of earth in km
 
+    #for each pair of cities, find the distance and compare it to the closest distance
     (0...locations.length - 1).each do |i|
       city1 = locations[i]
       (i + 1...locations.length).each do |j|

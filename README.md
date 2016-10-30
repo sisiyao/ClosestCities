@@ -1,8 +1,6 @@
 #Overview
 
-Hired currently operates in 16 cities around the globe: Los Angeles, San Francisco, Boston, New York, Washington, Seattle, Austin, Chicago, San Diego, Denver, London, Toronto, Sydney, Melbourne, Paris, and Singapore.
-
-This program determines which two of these cities are geographically closest to each other​, “as the crow flies”.
+CompanyX operates in 16 cities globally. This program determines which two of these cities are geographically closest to each other​, as the crow flies.
 
 This program uses:
 - Geocode gem to convert city names to latitude and longitude
